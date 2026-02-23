@@ -15,7 +15,7 @@
 
 <br/>
 
-> *"My Finance professional and creativity often involves a unique synergy: late-night 'vibe-coding' sessions fueled by coffee — bringing ideas to life through codes."*
+> _"My Finance professional and creativity often involves a unique synergy: late-night 'vibe-coding' sessions fueled by coffee — bringing ideas to life through codes."_
 
 ---
 
@@ -84,12 +84,12 @@ kit = {
 
 > **🏦 Institutional Intelligence Platform** — Track 40+ top hedge funds using SEC 13F data. Built for investors who demand transparency and alpha from public filings.
 
-| Feature | Details |
-|---|---|
-| 📡 Data Source | SEC EDGAR 13F Filings |
-| 🏦 Coverage | 40+ Top Hedge Funds |
-| 📊 Analytics | Position changes, portfolio concentration, sector exposure |
-| 🔓 License | Open-Source |
+| Feature        | Details                                                    |
+| -------------- | ---------------------------------------------------------- |
+| 📡 Data Source | SEC EDGAR 13F Filings                                      |
+| 🏦 Coverage    | 40+ Top Hedge Funds                                        |
+| 📊 Analytics   | Position changes, portfolio concentration, sector exposure |
+| 🔓 License     | Open-Source                                                |
 
 ---
 
@@ -98,24 +98,28 @@ kit = {
 ## 🛠️ Tech Stack & Tools
 
 <!-- LANGUAGES -->
+
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a78bfa)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=a78bfa)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f97316)
 
 <!-- FRAMEWORKS -->
+
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=a78bfa)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=a78bfa)
 ![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=f97316)
 
 <!-- TOOLS -->
+
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f97316)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=a78bfa)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=a78bfa)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa)
 
 <!-- FINANCE TOOLS -->
+
 ![Bloomberg](https://img.shields.io/badge/Bloomberg-0d1117?style=for-the-badge&logo=bloomberg&logoColor=f97316)
 ![SEC EDGAR](https://img.shields.io/badge/SEC_EDGAR-0d1117?style=for-the-badge&logo=govuk&logoColor=a78bfa)
 
@@ -139,7 +143,7 @@ kit = {
 ---
 
 <!-- FOOTER -->
-<img src="https://visitcount.itsvg.in/api?id=KitTran1307&label=Profile%20Views&color=6&icon=5&pretty=true" />
+<img src="https://komarev.com/ghpvc/?username=KitTran1307&color=blueviolet" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
