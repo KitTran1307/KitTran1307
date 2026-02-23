@@ -44,10 +44,15 @@ kit = {
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KitTran1307&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KitTran1307&theme=tokyonight" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitTran1307&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KitTran1307&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KitTran1307&theme=tokyonight" />
     </td>
   </tr>
 </table>
@@ -73,7 +78,7 @@ kit = {
 
 <div align="center">
 
-[![Institutional Holdings Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=KitTran1307&repo=Institutional-Holdings-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=f97316)](https://github.com/KitTran1307/Institutional-Holdings-Dashboard)
+[![Institutional Holdings Dashboard](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KitTran1307&repo=Institutional-Holdings-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=f97316)](https://github.com/KitTran1307/Institutional-Holdings-Dashboard)
 
 </div>
 
@@ -134,7 +139,7 @@ kit = {
 ---
 
 <!-- FOOTER -->
-<img src="https://komarev.com/ghpvc/?username=KitTran1307&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
+<img src="https://visitcount.itsvg.in/api?id=KitTran1307&label=Profile%20Views&color=6&icon=5&pretty=true" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
