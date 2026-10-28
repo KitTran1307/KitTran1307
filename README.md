@@ -12,6 +12,6 @@ Most of this code is private client work. My portfolio shows the products, scree
 
 **Stack:** TypeScript · React / Next.js · Python · SQL · Cloudflare Workers · React Native / Expo · Playwright
 
-**Public demo:** [13F.vis](https://kittran1307.github.io/Institutional-Holdings-Dashboard/), an explorer of SEC 13F holdings for 40+ hedge funds.
+**Public demo:** [13F.vis](https://kittran1307.github.io/Institutional-Holdings-Dashboard/), an explorer of SEC 13F filings from 40+ investment funds.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/kittran1307/) · baotran130703@gmail.com
