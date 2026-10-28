@@ -6,7 +6,7 @@ Technical project manager and full-stack developer in Ho Chi Minh City, with a d
 
 - **Project Manager, Tạp Chí Phố Wall**: market-data tools and Steve AI, a Vietnamese finance assistant that cites its sources.
 - **Technical Manager, Rocket Car Rentals Vietnam**: a booking site in 29 languages, a staff console, APIs, payments and a mobile app.
-- **Freelance Full-Stack Developer**: web apps for small businesses, such as an accounting system for a printing workshop, built in 18 days.
+- **Freelance Full-Stack Developer**: web apps for small businesses, such as an accounting system for a printing workshop.
 
 Most of this code is private client work. My portfolio shows the products, screenshots and numbers: **[kittran.vercel.app/career](https://kittran.vercel.app/career)**
 
