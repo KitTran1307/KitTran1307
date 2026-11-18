@@ -1,17 +1,28 @@
-# Kit Tran (Trần Huỳnh Gia Bảo)
+# Kit Tran
 
-Technical project manager and full-stack developer in Ho Chi Minh City, with a degree in applied finance. I plan and build software with AI coding agents and strict automated testing.
+Technical Project Manager · Full-Stack Developer · Applied Finance
 
-**Now**
+[Portfolio](https://kittran.vercel.app/career/projects) · [CV](https://kittran.vercel.app/career/resume) · [LinkedIn](https://www.linkedin.com/in/kittran1307/)
 
-- **Project Manager, Tạp Chí Phố Wall**: market-data tools and Steve AI, a Vietnamese finance assistant that cites its sources.
-- **Technical Manager, Rocket Car Rentals Vietnam**: a booking site in 29 languages, a staff console, APIs, payments and a mobile app.
-- **Freelance Full-Stack Developer**: web apps for small businesses, such as an accounting system for a printing workshop.
+I plan, build and run fintech and business software with AI coding agents. I set scope, review the work and verify changes before release.
 
-Most of this code is private client work. My portfolio shows the products, screenshots and numbers: **[kittran.vercel.app/career](https://kittran.vercel.app/career)**
+### Selected work
 
-**Stack:** TypeScript · React / Next.js · Python · SQL · Cloudflare Workers · React Native / Expo · Playwright
+| Project | What I work on |
+| :--- | :--- |
+| [Tạp Chí Phố Wall](https://kittran.vercel.app/career/projects/stevele) | Market-data tools and Steve AI, a finance assistant that cites its sources. |
+| [Rocket Car Rentals](https://kittran.vercel.app/career/projects/rocket-car-rentals) | A booking site in 29 languages, staff operations, card payments and an iOS app. |
+| [Millesona](https://kittran.vercel.app/career/projects/millesona) | AI-simulated survey research with about 1,000 personas and ranges for every result. In beta. |
 
-**Public demo:** [13F.vis](https://kittran1307.github.io/Institutional-Holdings-Dashboard/), an explorer of SEC 13F filings from 40+ investment funds.
+Most client code is private. The [portfolio](https://kittran.vercel.app/career/projects) includes screenshots, my role and results across nine projects.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/kittran1307/) · baotran130703@gmail.com
+### Open source
+
+- [kit-claude-mods](https://github.com/KitTran1307/kit-claude-mods) — Claude Code plugins for sessions, status and tasks.
+- [kit-cloud-pilot](https://github.com/KitTran1307/kit-cloud-pilot) — Tools to start, track and respond to Claude Code cloud sessions.
+
+TypeScript · React / Next.js · Python · SQL · Cloudflare Workers · React Native / Expo
+
+---
+
+Ho Chi Minh City · English & Vietnamese · Open to full-time or consulting
